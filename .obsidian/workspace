@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "48fe654191c53d18",
+    "type": "split",
+    "children": [
+      {
+        "id": "290788feece70cbc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Core/Общие вопросы/Подразделы/Концепции языка.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a0d7345674526152",
+    "type": "split",
+    "children": [
+      {
+        "id": "037f90f0509564f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5b21f99a490d782",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "21a689da02ece025",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "72fa384e9a00a27e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0317f8bf05070b48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7483410f2c6e5e82",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Core/Общие вопросы/Подразделы/Концепции языка.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7113af0ca5af3791",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cea245cced6e701f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Core/Общие вопросы/Подразделы/Концепции языка.md"
+              }
+            }
+          },
+          {
+            "id": "df12bf9cb2d79742",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Core/Общие вопросы/Подразделы/Концепции языка.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f7080968d21e9eb1",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "ae6586c5016ff777",
+            "type": "leaf",
+            "state": {
+              "type": "BC-stats",
+              "state": {}
+            }
+          },
+          {
+            "id": "3b649c2e87278199",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "290788feece70cbc",
+  "lastOpenFiles": [
+    "Core/Общие вопросы/Подразделы/Концепции языка.md",
+    "Core/Общие вопросы/Общие вопросы.md",
+    "Core/Java Core.md",
+    "Главная.md",
+    "Core/Обобщения и перечисления/Обобщения и перечисления.md",
+    "Core/ООП/ООП.md",
+    "Core/Потоки (Input-Output)/Потоки (Input-Output).md",
+    "Core/JDBC/JDBC.md",
+    "Core/Многопоточность/Многопоточность.md",
+    "Core/Func&Lambda/Функциональные интерфейсы и лямбда-выражения.md"
+  ]
+}
