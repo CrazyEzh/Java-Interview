@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Core/Общие вопросы/Подразделы/Концепции языка.md",
+            "file": "Главная.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core/Общие вопросы/Подразделы/Концепции языка.md",
+                "file": "Главная.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core/Общие вопросы/Подразделы/Концепции языка.md"
+                "file": "Главная.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core/Общие вопросы/Подразделы/Концепции языка.md",
+                "file": "Главная.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "id": "f7080968d21e9eb1",
             "type": "leaf",
             "state": {
-              "type": "BC-matrix",
+              "type": "empty",
               "state": {}
             }
           },
@@ -125,12 +125,36 @@
             "id": "ae6586c5016ff777",
             "type": "leaf",
             "state": {
-              "type": "BC-stats",
+              "type": "empty",
               "state": {}
             }
           },
           {
             "id": "3b649c2e87278199",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "602bbf70e0b9e34b",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "694d5db0c6bdedf5",
+            "type": "leaf",
+            "state": {
+              "type": "BC-stats",
+              "state": {}
+            }
+          },
+          {
+            "id": "9a9f5265c94684f4",
             "type": "leaf",
             "state": {
               "type": "BC-tree",
@@ -146,10 +170,10 @@
   },
   "active": "290788feece70cbc",
   "lastOpenFiles": [
+    "Главная.md",
     "Core/Общие вопросы/Подразделы/Концепции языка.md",
     "Core/Общие вопросы/Общие вопросы.md",
     "Core/Java Core.md",
-    "Главная.md",
     "Core/Обобщения и перечисления/Обобщения и перечисления.md",
     "Core/ООП/ООП.md",
     "Core/Потоки (Input-Output)/Потоки (Input-Output).md",
