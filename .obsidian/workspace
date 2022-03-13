@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "290788feece70cbc",
+        "id": "c97ca0df85edac96",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -114,22 +114,6 @@
             }
           },
           {
-            "id": "f7080968d21e9eb1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "ae6586c5016ff777",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "3b649c2e87278199",
             "type": "leaf",
             "state": {
@@ -162,23 +146,23 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 302
   },
-  "active": "290788feece70cbc",
+  "active": "c97ca0df85edac96",
   "lastOpenFiles": [
     "Core/Общие вопросы/Общие вопросы.md",
     "Core/Java Core.md",
-    "Главная.md",
-    "Core/Общие вопросы/Подразделы/Концепции языка.md",
-    "Core/Обобщения и перечисления/Обобщения и перечисления.md",
-    "Core/ООП/ООП.md",
-    "Core/Потоки (Input-Output)/Потоки (Input-Output).md",
-    "Core/JDBC/JDBC.md",
-    "Core/Многопоточность/Многопоточность.md",
-    "Core/Func&Lambda/Функциональные интерфейсы и лямбда-выражения.md"
+    "Core/Общие вопросы/Подразделы/Прочее.md",
+    "Core/Общие вопросы/Подразделы/Примитивы.md",
+    "Core/Общие вопросы/Подразделы/Нововведения Java8.md",
+    "Core/Общие вопросы/Подразделы/Память.md",
+    "Core/Общие вопросы/Подразделы/Циклы.md",
+    "Core/Общие вопросы/Подразделы/Логирование.md",
+    "Core/Общие вопросы/Подразделы/Приведение типов.md",
+    "Core/Общие вопросы/Подразделы/Массивы.md"
   ]
 }
