@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Core/Общие вопросы/Общие вопросы.md",
+            "file": "Core/Java Core.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Агре",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core/Общие вопросы/Общие вопросы.md",
+                "file": "Core/Java Core.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core/Общие вопросы/Общие вопросы.md"
+                "file": "Core/Java Core.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core/Общие вопросы/Общие вопросы.md",
+                "file": "Core/Java Core.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,6 +144,14 @@
               "type": "BC-tree",
               "state": {}
             }
+          },
+          {
+            "id": "561e49ab485f4aa0",
+            "type": "leaf",
+            "state": {
+              "type": "BC-ducks",
+              "state": {}
+            }
           }
         ],
         "currentTab": 5
@@ -154,15 +162,15 @@
   },
   "active": "c97ca0df85edac96",
   "lastOpenFiles": [
-    "Core/Общие вопросы/Общие вопросы.md",
     "Core/Java Core.md",
-    "Core/Общие вопросы/Подразделы/Прочее.md",
-    "Core/Общие вопросы/Подразделы/Примитивы.md",
-    "Core/Общие вопросы/Подразделы/Нововведения Java8.md",
-    "Core/Общие вопросы/Подразделы/Память.md",
-    "Core/Общие вопросы/Подразделы/Циклы.md",
-    "Core/Общие вопросы/Подразделы/Логирование.md",
-    "Core/Общие вопросы/Подразделы/Приведение типов.md",
-    "Core/Общие вопросы/Подразделы/Массивы.md"
+    "Core/Коллекции/Коллекции.md",
+    "Core/Коллекции/Подразделы/Общие вопросы по коллекциям.md",
+    "Files/Collection_ierarchy.png",
+    "Core/Коллекции/Без названия.md",
+    "Core/Общие вопросы/Общие вопросы.md",
+    "Core/ООП/ООП.md",
+    "Core/ООП/Подразделы/Прочее.md",
+    "Главная.md",
+    "Core/ООП/Подразделы/Класс Object.md"
   ]
 }

@@ -22,7 +22,7 @@
   "enableRelationSuggestor": false,
   "fieldSuggestor": true,
   "filterImpliedSiblingsOfDifferentTypes": false,
-  "jugglLayout": "hierarchy",
+  "jugglLayout": "cola",
   "limitWriteBCCheckboxes": [
     "up",
     "same",
@@ -39,17 +39,17 @@
   ],
   "HNUpField": "",
   "indexNotes": [
-    ""
+    "Главная"
   ],
   "namingSystemField": "",
   "namingSystemRegex": "",
   "namingSystemSplit": ".",
   "namingSystemEndsWithDelimiter": false,
-  "refreshOnNoteChange": false,
+  "refreshOnNoteChange": true,
   "useAllMetadata": true,
   "openMatrixOnLoad": true,
   "openStatsOnLoad": true,
-  "openDuckOnLoad": false,
+  "openDuckOnLoad": true,
   "openDownOnLoad": true,
   "overflowMLView": true,
   "parseJugglLinksWithoutJuggl": false,
@@ -94,7 +94,7 @@
   },
   "threadUnderCursor": false,
   "trailSeperator": "→",
-  "treatCurrNodeAsImpliedSibling": false,
+  "treatCurrNodeAsImpliedSibling": true,
   "trimDendronNotes": false,
   "respectReadableLineLength": true,
   "userHiers": [
