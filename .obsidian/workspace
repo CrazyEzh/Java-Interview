@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Core/Java Core.md",
+            "file": "Core/Коллекции/Коллекции.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Агре",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core/Java Core.md",
+                "file": "Core/Коллекции/Коллекции.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core/Java Core.md"
+                "file": "Core/Коллекции/Коллекции.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core/Java Core.md",
+                "file": "Core/Коллекции/Коллекции.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,14 +144,6 @@
               "type": "BC-tree",
               "state": {}
             }
-          },
-          {
-            "id": "561e49ab485f4aa0",
-            "type": "leaf",
-            "state": {
-              "type": "BC-ducks",
-              "state": {}
-            }
           }
         ],
         "currentTab": 5
@@ -162,15 +154,15 @@
   },
   "active": "c97ca0df85edac96",
   "lastOpenFiles": [
-    "Core/Java Core.md",
     "Core/Коллекции/Коллекции.md",
-    "Core/Коллекции/Подразделы/Общие вопросы по коллекциям.md",
-    "Files/Collection_ierarchy.png",
-    "Core/Коллекции/Без названия.md",
-    "Core/Общие вопросы/Общие вопросы.md",
-    "Core/ООП/ООП.md",
-    "Core/ООП/Подразделы/Прочее.md",
-    "Главная.md",
-    "Core/ООП/Подразделы/Класс Object.md"
+    "Core/Java Core.md",
+    "Core/Коллекции/Подразделы/Queue и Deque.md",
+    "Core/Коллекции/Подразделы/Map.md",
+    "Files/Collections/HashMapDiff.png",
+    "Core/Коллекции/Подразделы/Set.md",
+    "Core/Коллекции/Подразделы/List.md",
+    "Files/Collections/ArrayList_BigO.png",
+    "Files/Collections/Collection_ierarchy.png",
+    "Core/Коллекции/Подразделы/Итераторы.md"
   ]
 }
