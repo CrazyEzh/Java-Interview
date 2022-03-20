@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Core/Коллекции/Коллекции.md",
+            "file": "Core/ООП/Подразделы/Классы.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core/Коллекции/Коллекции.md",
+                "file": "Core/ООП/Подразделы/Классы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core/Коллекции/Коллекции.md"
+                "file": "Core/ООП/Подразделы/Классы.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core/Коллекции/Коллекции.md",
+                "file": "Core/ООП/Подразделы/Классы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,15 +154,15 @@
   },
   "active": "c97ca0df85edac96",
   "lastOpenFiles": [
-    "Core/Коллекции/Коллекции.md",
+    "Core/ООП/Подразделы/Классы.md",
+    "Core/Обобщения и перечисления/Обобщения и перечисления.md",
     "Core/Java Core.md",
-    "Core/Коллекции/Подразделы/Queue и Deque.md",
-    "Core/Коллекции/Подразделы/Map.md",
-    "Files/Collections/HashMapDiff.png",
-    "Core/Коллекции/Подразделы/Set.md",
-    "Core/Коллекции/Подразделы/List.md",
-    "Files/Collections/ArrayList_BigO.png",
-    "Files/Collections/Collection_ierarchy.png",
-    "Core/Коллекции/Подразделы/Итераторы.md"
+    "Core/Многопоточность/Многопоточность.md",
+    "Core/JDBC/JDBC.md",
+    "Core/Сериаллизация и клонирование/Сериализация и клонирование.md",
+    "Core/Stream API/Stream API.md",
+    "Core/Func&Lambda/Функциональные интерфейсы и лямбда-выражения.md",
+    "Core/Потоки (Input-Output)/Потоки (Input-Output).md",
+    "Core/Exception/Исключения.md"
   ]
 }
