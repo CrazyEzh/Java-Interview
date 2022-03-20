@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Core/ООП/Подразделы/Классы.md",
+            "file": "Core/Exception/Исключения.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core/ООП/Подразделы/Классы.md",
+                "file": "Core/Exception/Исключения.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core/ООП/Подразделы/Классы.md"
+                "file": "Core/Exception/Исключения.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core/ООП/Подразделы/Классы.md",
+                "file": "Core/Exception/Исключения.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,15 +154,15 @@
   },
   "active": "c97ca0df85edac96",
   "lastOpenFiles": [
-    "Core/ООП/Подразделы/Классы.md",
-    "Core/Обобщения и перечисления/Обобщения и перечисления.md",
+    "Core/Exception/Исключения.md",
     "Core/Java Core.md",
-    "Core/Многопоточность/Многопоточность.md",
-    "Core/JDBC/JDBC.md",
-    "Core/Сериаллизация и клонирование/Сериализация и клонирование.md",
-    "Core/Stream API/Stream API.md",
-    "Core/Func&Lambda/Функциональные интерфейсы и лямбда-выражения.md",
-    "Core/Потоки (Input-Output)/Потоки (Input-Output).md",
-    "Core/Exception/Исключения.md"
+    "Core/Exception/Подразделы/StackTrace.md",
+    "Core/Exception/Подразделы/try-with-resources.md",
+    "Core/Exception/Подразделы/try-catch-finaly.md",
+    "Core/Exception/Подразделы/Классы Exception и Throwable.md",
+    "Core/Exception/Подразделы/Общие вопросы по исключениям.md",
+    "Core/Общие вопросы/Общие вопросы.md",
+    "Core/Общие вопросы/Подразделы/Приведение типов.md",
+    "Главная.md"
   ]
 }
