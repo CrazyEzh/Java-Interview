@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Core/Exception/Исключения.md",
+            "file": "Core/Потоки (Input-Output)/Потоки (Input-Output).md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Агре",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core/Exception/Исключения.md",
+                "file": "Core/Потоки (Input-Output)/Потоки (Input-Output).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core/Exception/Исключения.md"
+                "file": "Core/Потоки (Input-Output)/Потоки (Input-Output).md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core/Exception/Исключения.md",
+                "file": "Core/Потоки (Input-Output)/Потоки (Input-Output).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,6 +144,14 @@
               "type": "BC-tree",
               "state": {}
             }
+          },
+          {
+            "id": "561e49ab485f4aa0",
+            "type": "leaf",
+            "state": {
+              "type": "BC-ducks",
+              "state": {}
+            }
           }
         ],
         "currentTab": 5
@@ -154,15 +162,15 @@
   },
   "active": "c97ca0df85edac96",
   "lastOpenFiles": [
-    "Core/Exception/Исключения.md",
+    "Core/Потоки (Input-Output)/Потоки (Input-Output).md",
     "Core/Java Core.md",
-    "Core/Exception/Подразделы/StackTrace.md",
-    "Core/Exception/Подразделы/try-with-resources.md",
-    "Core/Exception/Подразделы/try-catch-finaly.md",
-    "Core/Exception/Подразделы/Классы Exception и Throwable.md",
-    "Core/Exception/Подразделы/Общие вопросы по исключениям.md",
-    "Core/Общие вопросы/Общие вопросы.md",
-    "Core/Общие вопросы/Подразделы/Приведение типов.md",
-    "Главная.md"
+    "Core/Потоки (Input-Output)/Подразделы/Работа с файлами.md",
+    "Core/Потоки (Input-Output)/Подразделы/Scanner.md",
+    "Core/Потоки (Input-Output)/Подразделы/Методы потоков.md",
+    "Core/Потоки (Input-Output)/Подразделы/Потоки.md",
+    "Core/Потоки (Input-Output)/Без названия.md",
+    "Главная.md",
+    "Core/Коллекции/Подразделы/Итераторы.md",
+    "Core/Коллекции/Коллекции.md"
   ]
 }
