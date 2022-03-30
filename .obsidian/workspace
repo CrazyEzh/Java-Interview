@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Core/Потоки (Input-Output)/Потоки (Input-Output).md",
+            "file": "Core/Func&Lambda/Функциональные интерфейсы и лямбда-выражения.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core/Потоки (Input-Output)/Потоки (Input-Output).md",
+                "file": "Core/Func&Lambda/Функциональные интерфейсы и лямбда-выражения.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core/Потоки (Input-Output)/Потоки (Input-Output).md"
+                "file": "Core/Func&Lambda/Функциональные интерфейсы и лямбда-выражения.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core/Потоки (Input-Output)/Потоки (Input-Output).md",
+                "file": "Core/Func&Lambda/Функциональные интерфейсы и лямбда-выражения.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,15 +162,15 @@
   },
   "active": "c97ca0df85edac96",
   "lastOpenFiles": [
-    "Core/Потоки (Input-Output)/Потоки (Input-Output).md",
+    "Core/Func&Lambda/Функциональные интерфейсы и лямбда-выражения.md",
     "Core/Java Core.md",
+    "Core/Func&Lambda/Подразделы/Лямбда-выражения.md",
+    "Core/Func&Lambda/Подразделы/Функциональные интерфейсы.md",
+    "Core/Func&Lambda/Подразделы/Общее.md",
+    "Core/ООП/ООП.md",
+    "Core/Общие вопросы/Общие вопросы.md",
+    "Core/Потоки (Input-Output)/Потоки (Input-Output).md",
     "Core/Потоки (Input-Output)/Подразделы/Работа с файлами.md",
-    "Core/Потоки (Input-Output)/Подразделы/Scanner.md",
-    "Core/Потоки (Input-Output)/Подразделы/Методы потоков.md",
-    "Core/Потоки (Input-Output)/Подразделы/Потоки.md",
-    "Core/Потоки (Input-Output)/Без названия.md",
-    "Главная.md",
-    "Core/Коллекции/Подразделы/Итераторы.md",
-    "Core/Коллекции/Коллекции.md"
+    "Core/Потоки (Input-Output)/Подразделы/Scanner.md"
   ]
 }
