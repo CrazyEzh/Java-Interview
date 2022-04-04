@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Core/Func&Lambda/Функциональные интерфейсы и лямбда-выражения.md",
+            "file": "Core/Stream API/Подразделы/Операции со стримами.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core/Func&Lambda/Функциональные интерфейсы и лямбда-выражения.md",
+                "file": "Core/Stream API/Подразделы/Операции со стримами.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core/Func&Lambda/Функциональные интерфейсы и лямбда-выражения.md"
+                "file": "Core/Stream API/Подразделы/Операции со стримами.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core/Func&Lambda/Функциональные интерфейсы и лямбда-выражения.md",
+                "file": "Core/Stream API/Подразделы/Операции со стримами.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,15 +162,15 @@
   },
   "active": "c97ca0df85edac96",
   "lastOpenFiles": [
-    "Core/Func&Lambda/Функциональные интерфейсы и лямбда-выражения.md",
+    "Core/Stream API/Подразделы/Операции со стримами.md",
+    "Core/Stream API/Подразделы/Терминальные.md",
+    "Core/Stream API/Stream API.md",
     "Core/Java Core.md",
+    "Core/Stream API/Подразделы/Общие вопросы по Stream API.md",
+    "Core/Stream API/Подразделы/Промежуточные.md",
+    "Core/Func&Lambda/Функциональные интерфейсы и лямбда-выражения.md",
     "Core/Func&Lambda/Подразделы/Лямбда-выражения.md",
     "Core/Func&Lambda/Подразделы/Функциональные интерфейсы.md",
-    "Core/Func&Lambda/Подразделы/Общее.md",
-    "Core/ООП/ООП.md",
-    "Core/Общие вопросы/Общие вопросы.md",
-    "Core/Потоки (Input-Output)/Потоки (Input-Output).md",
-    "Core/Потоки (Input-Output)/Подразделы/Работа с файлами.md",
-    "Core/Потоки (Input-Output)/Подразделы/Scanner.md"
+    "Core/Func&Lambda/Подразделы/Общее.md"
   ]
 }
