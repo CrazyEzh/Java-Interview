@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Core/Многопоточность/Многопоточность.md",
+            "file": "Core/Java Core.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core/Многопоточность/Многопоточность.md",
+                "file": "Core/Java Core.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core/Многопоточность/Многопоточность.md"
+                "file": "Core/Java Core.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core/Многопоточность/Многопоточность.md",
+                "file": "Core/Java Core.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,15 +162,15 @@
   },
   "active": "c97ca0df85edac96",
   "lastOpenFiles": [
-    "Core/Многопоточность/Многопоточность.md",
     "Core/Java Core.md",
+    "Core/JDBC/JDBC.md",
+    "Files/JDBC/ConnectionInterface.png",
+    "Core/Многопоточность/Многопоточность.md",
     "Core/Многопоточность/Подразделы/Синхронизация.md",
     "Core/Многопоточность/Подразделы/Методы и ключевые слова для потоков.md",
     "Core/Многопоточность/Подразделы/Потоки(Threads).md",
     "Core/Общие вопросы/Подразделы/Строки.md",
     "Core/Stream API/Stream API.md",
-    "Core/Func&Lambda/Функциональные интерфейсы и лямбда-выражения.md",
-    "Core/Func&Lambda/Подразделы/Лямбда-выражения.md",
-    "Core/Потоки (Input-Output)/Потоки (Input-Output).md"
+    "Core/Func&Lambda/Функциональные интерфейсы и лямбда-выражения.md"
   ]
 }
